@@ -1,1 +1,1 @@
-# bash_Sceority
+# bash_Script
